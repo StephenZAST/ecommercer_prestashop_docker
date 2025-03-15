@@ -152,4 +152,5 @@ presta/
 ```
 
 
-themes/child_classic/preview.png
+![preview](https://github.com/user-attachments/assets/2cb1a09d-afdf-48b7-affa-9c93b5e35013)
+
