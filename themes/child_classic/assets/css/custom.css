@@ -1,0 +1,11 @@
+/* Personnalisations du thème enfant */
+.footer-container {
+    background: #f5f5f5;
+    padding: 2rem 0;
+}
+
+.footer-container p {
+    margin: 0;
+    color: #232323;
+    font-weight: 600;
+}

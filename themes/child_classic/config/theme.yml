@@ -1,0 +1,17 @@
+name: child_classic
+display_name: Mon Thème Enfant
+version: 1.0.0
+author:
+  name: "Stephen"
+  email: "contacteasytec@gmail.com"
+  url: "http://localhost:8080/fr/"
+
+parent: classic
+dependencies:
+  modules:
+    - ps_mainmenu
+    - ps_searchbar
+    - ps_shoppingcart
+
+assets:
+  use_parent_assets: true
