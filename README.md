@@ -150,3 +150,6 @@ presta/
     ├── ps_data/    (PrestaShop)
     └── db_data/    (MySQL)
 ```
+
+
+themes/child_classic/preview.png
